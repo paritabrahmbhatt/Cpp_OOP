@@ -27,3 +27,7 @@ Resources:
 Reosurces:
 1. [Youtube video tutorial](https://www.youtube.com/watch?v=HqnVgvBR4pA)
 2. Codes: [P016](https://github.com/paritabrahmbhatt/Cpp_OOP/blob/main/P016_friendfunction.cpp)
+
+### Virtual Functions:
+1. [Youtube video tutorial](https://www.youtube.com/watch?v=JU8DbwBvOWE&t=1s)
+2. Codes: [P018](https://github.com/paritabrahmbhatt/Cpp_OOP/blob/main/P018_virtualFunction.cpp), [P019](https://github.com/paritabrahmbhatt/Cpp_OOP/blob/main/P019_VirtualFunction2.cpp)
