@@ -1,3 +1,4 @@
+//A desgin without Factory Pattern
 #include <iostream>
 #include<string>
 #include <memory>
