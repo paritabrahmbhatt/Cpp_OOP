@@ -14,18 +14,23 @@ Resources:
 1. [Youtube video tutorial](https://www.youtube.com/watch?v=rr7HVs4d1Qo&list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q&index=37)
 2. Codes: [P006](https://github.com/paritabrahmbhatt/Cpp_OOP/blob/main/P006_inheritance.cpp), [P007](https://github.com/paritabrahmbhatt/Cpp_OOP/blob/main/P007_Inheritance_acceessspec.cpp)
 
+#### Function Overriding
+Resources:
+1. [Youtube video tutorial](https://www.youtube.com/watch?v=Zd_4xa071nc)
+
 #### Access Specifiers
 1. [Youtube video tutorial](https://www.youtube.com/watch?v=1KVQVXphqJU)
 2. Codes: [P007](https://github.com/paritabrahmbhatt/Cpp_OOP/blob/main/P007_Inheritance_acceessspec.cpp)
 
-### Function Overloading:
+### Polymorphism:
+#### Function Overloading
 Resources:
 1. [Youtube video tutorial](https://www.youtube.com/watch?v=dh0mKAPFzlQ)
-2. Codes: [P015](https://github.com/paritabrahmbhatt/Cpp_OOP/blob/main/P015_function_overloading.cpp)
+2. Codes: [P015](https://github.com/paritabrahmbhatt/Cpp_OOP/blob/main/P015_function_overloading.cpp), [P027](https://github.com/paritabrahmbhatt/Cpp_OOP/blob/main/P027_FunctionOverl.cpp)
+#### Operator Overloading:
+1.[Youtube video tutorial](https://www.youtube.com/watch?v=BO2KagRMS3M&list=RDCMUCRIWTSgd7hGtZhx4RYoASEg&index=2)
+2. Codes: [P028](https://github.com/paritabrahmbhatt/Cpp_OOP/blob/main/P028_operatorover.cpp)
 
-### Function Overriding:
-Resources:
-1. [Youtube video tutorial](https://www.youtube.com/watch?v=Zd_4xa071nc)
 
 ### Friend Function:
 Reosurces:
